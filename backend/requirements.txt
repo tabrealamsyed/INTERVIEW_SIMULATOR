@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+google-genai
+firebase-admin
+python-dotenv
+scikit-learn
+pandas
+langgraph
